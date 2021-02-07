@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aaronmartin/Desktop/DesignPattern/DesignPattern/DesignPattern-多态/DesignPattern-多态.csproj",
+      "projectUniqueName": "/Users/aaronmartin/Desktop/DesignPattern/Design-Pattern/DesignPattern-多态/DesignPattern-多态.csproj",
       "projectName": "DesignPattern-多态",
-      "projectPath": "/Users/aaronmartin/Desktop/DesignPattern/DesignPattern/DesignPattern-多态/DesignPattern-多态.csproj",
+      "projectPath": "/Users/aaronmartin/Desktop/DesignPattern/Design-Pattern/DesignPattern-多态/DesignPattern-多态.csproj",
       "packagesPath": "/Users/aaronmartin/.nuget/packages/",
-      "outputPath": "/Users/aaronmartin/Desktop/DesignPattern/DesignPattern/DesignPattern-多态/obj/",
+      "outputPath": "/Users/aaronmartin/Desktop/DesignPattern/Design-Pattern/DesignPattern-多态/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

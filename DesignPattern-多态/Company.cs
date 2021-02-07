@@ -4,7 +4,7 @@ namespace DesignPattern
 {
     public abstract class Company
     {
-        public abstract List<Employee> GetImployee();
+        public abstract List<Employee> GetEmployee();
         public abstract void CreateSoftWare();
     }
 }

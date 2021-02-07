@@ -4,7 +4,7 @@ namespace DesignPattern.GameCompany
 {
     public class GameBus : Company
     {
-        public override List<Employee> GetImployee()
+        public override List<Employee> GetEmployee()
         {
             return new List<Employee>()
             {
@@ -14,11 +14,11 @@ namespace DesignPattern.GameCompany
 
         public override void CreateSoftWare()
         {
-            var employees = GetImployee();
+            var employees = GetEmployee();
             employees.ForEach(emp =>
             {
                 emp.DoWork();                
             });
         }
     }
-}
+} 
