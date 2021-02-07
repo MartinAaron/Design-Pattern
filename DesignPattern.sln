@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern-多态", "Des
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern-Transport-Example", "DesignPattern-Transport-Example\DesignPattern-Transport-Example.csproj", "{19A0EAE3-DB26-4F69-9DF9-1B2993E37AF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{70F50FB8-CE9F-496D-87BD-B87EA65C3349}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{19A0EAE3-DB26-4F69-9DF9-1B2993E37AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19A0EAE3-DB26-4F69-9DF9-1B2993E37AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19A0EAE3-DB26-4F69-9DF9-1B2993E37AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F50FB8-CE9F-496D-87BD-B87EA65C3349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F50FB8-CE9F-496D-87BD-B87EA65C3349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F50FB8-CE9F-496D-87BD-B87EA65C3349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F50FB8-CE9F-496D-87BD-B87EA65C3349}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
